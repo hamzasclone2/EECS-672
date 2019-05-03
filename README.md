@@ -3,7 +3,7 @@ Introduction to Computer Graphics
 
 Taken during Fall 2018
 
-I got to design my own scenes with OpenCL. Here they are:
+I got to design my own scenes with OpenGL. Here they are:
 
 Project 2:
 ![Project2 Picture](/images/1.png)
